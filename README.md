@@ -7,6 +7,8 @@ These SMS Terms and Conditions govern the use of text messaging services provide
 
 By providing your phone number and verbally opting in, you consent to receive conversational and customer care SMS messages from PASHA HEALTH LLC.
 
+By opting in to receive SMS from PASHA HEALTH LLC, you agree to receive customer care messages.
+
 These messages may include responses to inquiries, appointment scheduling, appointment confirmations, customer support communications, and service-related updates.
 
 Message frequency may vary.
