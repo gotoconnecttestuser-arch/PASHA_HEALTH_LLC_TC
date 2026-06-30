@@ -7,12 +7,15 @@ These SMS Terms and Conditions govern the use of text messaging services provide
 
 By providing your phone number and verbally opting in, you consent to receive conversational and customer care SMS messages from PASHA HEALTH LLC.
 
-By opting in to receive SMS from PASHA HEALTH LLC, you agree to receive customer care messages.
+By providing your mobile number and opting in to receive SMS messages from PASHA HEALTH LLC, you consent to receive customer care messages only.
 
 These messages may include responses to inquiries, appointment scheduling, appointment confirmations, customer support communications, and service-related updates.
 
-Message frequency may vary.
-Message and data rates may apply depending on your mobile carrier plan.
+Message frequency:
+
+Message frequency may vary. On average, 1-2 messages per month.
+
+Message and data rates may apply.
 
 Consent to receive SMS messages is not a condition of purchase.
 
@@ -20,7 +23,6 @@ Consent to receive SMS messages is not a condition of purchase.
 
 SMS messages from PASHA HEALTH LLC may include:
 
-- Conversational responses to customer inquiries
 - Customer care and support messages
 - Appointment scheduling and confirmations
 - Service-related notifications and updates
